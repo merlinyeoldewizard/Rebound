@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: a87088ae1b1082a468844be27149a874
-timeCreated: 1514058272
+guid: 1f2e8d1f2ae9f3747a3e0eeb49f80692
+timeCreated: 1514310252
 licenseType: Free
 ModelImporter:
   serializedVersion: 19
@@ -9,9 +9,7 @@ ModelImporter:
     400000: //RootNode
     2300000: //RootNode
     3300000: //RootNode
-    4300000: Sphere
-    7400000: Default Take
-    9500000: //RootNode
+    4300000: Cog001
   materials:
     importMaterials: 1
     materialName: 0
@@ -76,7 +74,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
